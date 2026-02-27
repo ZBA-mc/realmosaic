@@ -1,2 +1,3 @@
 # realmosaic
-Python 版 Minecrafft
+Python 版 Minecraft
+采用Faithful 64x材质
