@@ -1,5 +1,5 @@
 # Explorebuild
-Python 版 Minecraft， 采用Faithful 64x材质。
+Python 实现的 Minecraft 复刻版， 采用Faithful 64x材质。
 下一步计划优化：
 物品栏、背包、交互、生物、地图
 ![IMG_20260226_211533](https://github.com/user-attachments/assets/6ee7ef28-755c-479b-8474-8f86870a1563)
