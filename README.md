@@ -1,4 +1,4 @@
-# Interactconstruct
+# Explorebuild
 Python 版 Minecraft， 采用Faithful 64x材质。
 下一步计划优化：
 物品栏、背包、交互、生物、地图
