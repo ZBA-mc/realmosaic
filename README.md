@@ -1,6 +1,8 @@
 # realmosaic
-Python 版 Minecraft， 采用Faithful 64x材质。下一步计划优化：![IMG_20260226_211533](https://github.com/user-attachments/assets/6ee7ef28-755c-479b-8474-8f86870a1563)
-
+Python 版 Minecraft， 采用Faithful 64x材质。
+下一步计划优化：
+物品栏、背包、交互、生物、地图
+![IMG_20260226_211533](https://github.com/user-attachments/assets/6ee7ef28-755c-479b-8474-8f86870a1563)
 ![IMG_20260226_211501](https://github.com/user-attachments/assets/5b08c4c3-77c1-4eaf-bdde-07bdbefb7f7a)
 ![IMG_20260226_212316](https://github.com/user-attachments/assets/cbb68055-eb04-4247-90e4-739915e6504c)
 ![IMG_20260226_212227](https://github.com/user-attachments/assets/aa6b68a3-7ce7-4038-a4f9-359c23f2c5a5)
