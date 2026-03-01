@@ -1,7 +1,21 @@
 # Explorebuild
-Python 实现的 Minecraft 复刻版， 采用Faithful 64x材质。
-下一步计划优化：
-物品栏、背包、交互、生物、地图
+用 Python 实现的 Minecraft 复刻版， 采用Faithful 64x材质。
+
+已实现：
+
+wasd 移动、
+第一人称视角、
+随机地形、
+多种方块、
+空格跳跃、
+左键放置、
+右键破坏、
+4 区块（32*32）地图、
+esc 暂停菜单、
+1234 切换手持方块（手持时还显示手），
+
+下一步计划优化：物品栏、背包、交互、生物、地图
+
 ![IMG_20260226_211533](https://github.com/user-attachments/assets/6ee7ef28-755c-479b-8474-8f86870a1563)
 ![IMG_20260226_211501](https://github.com/user-attachments/assets/5b08c4c3-77c1-4eaf-bdde-07bdbefb7f7a)
 ![IMG_20260226_212316](https://github.com/user-attachments/assets/cbb68055-eb04-4247-90e4-739915e6504c)
